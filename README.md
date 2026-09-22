@@ -6,9 +6,9 @@
 
 | Nome | RM |
 |------|----|
-| [Nome 1] | [RM 1] |
-| [Nome 2] | [RM 2] |
-| [Nome 3] | [RM 3] |
+| Guilherme Xavier | 573053 |
+| Bryan Lugli | 571350 |
+| Beckman Lugli | 573442 |
 
 **Vídeo de demonstração (YouTube, não listado):** [colar o link aqui]
 
@@ -19,9 +19,9 @@
 Nosso protótipo é uma estação de recarga de veículos elétricos **simulada em Python** que dá prioridade à energia solar. Um controlador lê a geração do painel, a temperatura e o nível da bateria a cada 5 minutos simulados e decide sozinho com que potência carregar o carro. Tudo o que acontece (sessões, leituras dos sensores e comandos automáticos) é registrado e pode ser consultado no menu ou exportado em CSV/JSON.
 
 **Evolução entre as Sprints**
-- Sprint 1: [o que o grupo definiu]
-- Sprint 2: [o que o grupo definiu]
-- Sprint 3: protótipo funcional integrado (esta entrega)
+- Sprint 1: Planejar a ideia inicial
+- Sprint 2: Desenvolver a ideia
+- Sprint 3: Protótipo funcional integrado (esta entrega)
 
 ---
 
@@ -29,13 +29,13 @@ Nosso protótipo é uma estação de recarga de veículos elétricos **simulada 
 
 ### 3.1 Diagrama de blocos
 
-![Diagrama de blocos](docs/diagramas/diagrama_blocos.svg)
+![Diagrama de blocos](docs/diagramas/diagrama_blocos.png)
 
 Como os blocos conversam: o painel solar e a rede elétrica fornecem energia ao controlador, os sensores enviam leituras, e o controlador manda os comandos para o carregador, que abastece o veículo. Cada leitura e cada comando são gravados no registro de dados, que alimenta a exportação em CSV/JSON. O menu é a interface do usuário com o controlador.
 
 ### 3.2 Fluxograma da lógica de uma sessão
 
-![Fluxograma](docs/diagramas/fluxograma.svg)
+![Fluxograma](docs/diagramas/fluxograma.png)
 
 ### 3.3 Imagens do protótipo (simulação)
 
