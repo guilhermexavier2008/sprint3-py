@@ -109,15 +109,7 @@ Dados gerados com `python src/main.py --demo` (semente fixa, então qualquer pes
 
 ---
 
-## 6. Conexão com os conteúdos da disciplina
-
-- [Conteúdo 1] → [onde foi aplicado no projeto]
-- [Conteúdo 2] → [onde foi aplicado no projeto]
-- [Conteúdo 3] → [onde foi aplicado no projeto]
-
----
-
-## 7. Estrutura do repositório
+## 6. Estrutura do repositório
 
 ```
 /
@@ -132,7 +124,7 @@ Dados gerados com `python src/main.py --demo` (semente fixa, então qualquer pes
 
 ---
 
-## 8. Como executar
+## 7. Como executar
 
 **Requisitos:** Python 3.8 ou superior. Não precisa instalar bibliotecas.
 
