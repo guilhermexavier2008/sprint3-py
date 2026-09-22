@@ -1,0 +1,207 @@
+sessao,minuto,comando,motivo
+1,0,SOLAR_TOTAL,sol cobre toda a recarga
+1,155,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+1,160,SOLAR_TOTAL,sol cobre toda a recarga
+1,175,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+1,195,SOLAR_TOTAL,sol cobre toda a recarga
+1,210,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+2,0,REDE_POTENCIA_REDUZIDA,"sem sol, recarga mais leve na rede"
+2,435,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+2,470,REDUCAO_TERMICA,temperatura acima de 45 C
+2,625,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+2,630,SOLAR_TOTAL,sol cobre toda a recarga
+2,635,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+2,650,SOLAR_TOTAL,sol cobre toda a recarga
+2,655,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+3,0,REDE_POTENCIA_REDUZIDA,"sem sol, recarga mais leve na rede"
+4,0,SOLAR_TOTAL,sol cobre toda a recarga
+4,20,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+4,25,SOLAR_TOTAL,sol cobre toda a recarga
+4,30,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+4,35,SOLAR_TOTAL,sol cobre toda a recarga
+4,65,REDUCAO_TERMICA,temperatura acima de 45 C
+5,0,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+5,75,REDUCAO_TERMICA,temperatura acima de 45 C
+5,130,REDE_POTENCIA_REDUZIDA,"sem sol, recarga mais leve na rede"
+6,0,REDE_POTENCIA_REDUZIDA,"sem sol, recarga mais leve na rede"
+6,495,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+6,505,REDUCAO_TERMICA,temperatura acima de 45 C
+6,640,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+7,0,REDE_POTENCIA_REDUZIDA,"sem sol, recarga mais leve na rede"
+7,255,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+8,0,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+8,130,SOLAR_TOTAL,sol cobre toda a recarga
+8,145,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+8,150,SOLAR_TOTAL,sol cobre toda a recarga
+8,195,REDUCAO_TERMICA,temperatura acima de 45 C
+8,240,SOLAR_TOTAL,sol cobre toda a recarga
+9,0,REDE_POTENCIA_REDUZIDA,"sem sol, recarga mais leve na rede"
+10,0,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+10,30,SOLAR_TOTAL,sol cobre toda a recarga
+10,35,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+10,45,SOLAR_TOTAL,sol cobre toda a recarga
+10,50,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+10,55,SOLAR_TOTAL,sol cobre toda a recarga
+10,65,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+10,70,SOLAR_TOTAL,sol cobre toda a recarga
+10,80,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+10,90,SOLAR_TOTAL,sol cobre toda a recarga
+10,95,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+10,100,SOLAR_TOTAL,sol cobre toda a recarga
+10,110,REDUCAO_TERMICA,temperatura acima de 45 C
+10,175,SOLAR_TOTAL,sol cobre toda a recarga
+11,0,REDE_POTENCIA_REDUZIDA,"sem sol, recarga mais leve na rede"
+11,555,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+11,640,REDUCAO_TERMICA,temperatura acima de 45 C
+11,695,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+11,750,SOLAR_TOTAL,sol cobre toda a recarga
+11,755,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+11,765,SOLAR_TOTAL,sol cobre toda a recarga
+11,780,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+11,795,SOLAR_TOTAL,sol cobre toda a recarga
+12,0,SOLAR_TOTAL,sol cobre toda a recarga
+12,50,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+12,60,SOLAR_TOTAL,sol cobre toda a recarga
+12,70,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+12,90,SOLAR_TOTAL,sol cobre toda a recarga
+12,95,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+12,140,REDUCAO_TERMICA,temperatura acima de 45 C
+12,195,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+13,0,SOLAR_TOTAL,sol cobre toda a recarga
+13,5,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+13,15,SOLAR_TOTAL,sol cobre toda a recarga
+13,20,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+13,25,SOLAR_TOTAL,sol cobre toda a recarga
+13,35,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+13,45,SOLAR_TOTAL,sol cobre toda a recarga
+13,75,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+13,80,SOLAR_TOTAL,sol cobre toda a recarga
+13,85,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+13,290,REDE_POTENCIA_REDUZIDA,"sem sol, recarga mais leve na rede"
+14,0,SOLAR_TOTAL,sol cobre toda a recarga
+14,5,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+14,10,SOLAR_TOTAL,sol cobre toda a recarga
+14,45,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+14,50,SOLAR_TOTAL,sol cobre toda a recarga
+14,55,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+14,60,SOLAR_TOTAL,sol cobre toda a recarga
+14,65,REDUCAO_TERMICA,temperatura acima de 45 C
+14,295,REDE_POTENCIA_REDUZIDA,"sem sol, recarga mais leve na rede"
+15,0,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+15,5,SOLAR_TOTAL,sol cobre toda a recarga
+15,15,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+15,25,SOLAR_TOTAL,sol cobre toda a recarga
+15,35,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+15,100,REDUCAO_TERMICA,temperatura acima de 45 C
+15,180,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+15,220,REDUCAO_TERMICA,temperatura acima de 45 C
+15,265,REDE_POTENCIA_REDUZIDA,"sem sol, recarga mais leve na rede"
+16,0,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+16,55,REDUCAO_TERMICA,temperatura acima de 45 C
+16,220,REDE_POTENCIA_REDUZIDA,"sem sol, recarga mais leve na rede"
+17,0,SOLAR_TOTAL,sol cobre toda a recarga
+17,25,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+17,30,SOLAR_TOTAL,sol cobre toda a recarga
+17,40,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+17,45,SOLAR_TOTAL,sol cobre toda a recarga
+17,50,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+17,60,SOLAR_TOTAL,sol cobre toda a recarga
+17,75,REDUCAO_TERMICA,temperatura acima de 45 C
+17,200,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+18,0,SOLAR_TOTAL,sol cobre toda a recarga
+18,15,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+19,0,REDE_POTENCIA_REDUZIDA,"sem sol, recarga mais leve na rede"
+19,195,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+19,215,REDUCAO_TERMICA,temperatura acima de 45 C
+19,620,SOLAR_TOTAL,sol cobre toda a recarga
+19,625,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+19,635,SOLAR_TOTAL,sol cobre toda a recarga
+20,0,REDE_POTENCIA_REDUZIDA,"sem sol, recarga mais leve na rede"
+20,315,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+21,0,REDE_POTENCIA_REDUZIDA,"sem sol, recarga mais leve na rede"
+21,135,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+22,0,REDE_POTENCIA_REDUZIDA,"sem sol, recarga mais leve na rede"
+22,315,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+22,540,SOLAR_TOTAL,sol cobre toda a recarga
+22,555,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+22,560,SOLAR_TOTAL,sol cobre toda a recarga
+23,0,REDE_POTENCIA_REDUZIDA,"sem sol, recarga mais leve na rede"
+23,315,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+24,0,REDE_POTENCIA_REDUZIDA,"sem sol, recarga mais leve na rede"
+24,375,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+25,0,SOLAR_TOTAL,sol cobre toda a recarga
+25,145,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+25,150,SOLAR_TOTAL,sol cobre toda a recarga
+26,0,REDE_POTENCIA_REDUZIDA,"sem sol, recarga mais leve na rede"
+26,255,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+27,0,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+27,160,SOLAR_TOTAL,sol cobre toda a recarga
+27,165,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+27,170,SOLAR_TOTAL,sol cobre toda a recarga
+27,175,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+27,180,SOLAR_TOTAL,sol cobre toda a recarga
+27,190,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+27,195,SOLAR_TOTAL,sol cobre toda a recarga
+28,0,REDE_POTENCIA_REDUZIDA,"sem sol, recarga mais leve na rede"
+28,195,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+28,245,REDUCAO_TERMICA,temperatura acima de 45 C
+28,340,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+28,380,REDUCAO_TERMICA,temperatura acima de 45 C
+28,460,SOLAR_TOTAL,sol cobre toda a recarga
+28,475,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+28,480,SOLAR_TOTAL,sol cobre toda a recarga
+29,0,SOLAR_TOTAL,sol cobre toda a recarga
+29,60,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+29,65,SOLAR_TOTAL,sol cobre toda a recarga
+29,95,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+29,100,SOLAR_TOTAL,sol cobre toda a recarga
+29,105,REDUCAO_TERMICA,temperatura acima de 45 C
+29,160,SOLAR_TOTAL,sol cobre toda a recarga
+29,165,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+29,210,REDUCAO_TERMICA,temperatura acima de 45 C
+29,260,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+29,350,REDE_POTENCIA_REDUZIDA,"sem sol, recarga mais leve na rede"
+30,0,REDE_POTENCIA_REDUZIDA,"sem sol, recarga mais leve na rede"
+30,195,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+31,0,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+31,170,REDE_POTENCIA_REDUZIDA,"sem sol, recarga mais leve na rede"
+32,0,REDE_POTENCIA_REDUZIDA,"sem sol, recarga mais leve na rede"
+33,0,REDE_POTENCIA_REDUZIDA,"sem sol, recarga mais leve na rede"
+33,375,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+33,405,REDUCAO_TERMICA,temperatura acima de 45 C
+34,0,REDE_POTENCIA_REDUZIDA,"sem sol, recarga mais leve na rede"
+34,75,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+34,155,REDUCAO_TERMICA,temperatura acima de 45 C
+35,0,REDE_POTENCIA_REDUZIDA,"sem sol, recarga mais leve na rede"
+35,255,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+36,0,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+36,50,REDE_POTENCIA_REDUZIDA,"sem sol, recarga mais leve na rede"
+37,0,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+37,145,REDUCAO_TERMICA,temperatura acima de 45 C
+37,195,SOLAR_TOTAL,sol cobre toda a recarga
+37,205,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+37,210,SOLAR_TOTAL,sol cobre toda a recarga
+37,230,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+37,235,SOLAR_TOTAL,sol cobre toda a recarga
+37,275,REDUCAO_TERMICA,temperatura acima de 45 C
+37,325,SOLAR_TOTAL,sol cobre toda a recarga
+37,390,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+37,395,SOLAR_TOTAL,sol cobre toda a recarga
+37,415,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+37,420,SOLAR_TOTAL,sol cobre toda a recarga
+37,440,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+37,455,SOLAR_TOTAL,sol cobre toda a recarga
+37,460,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+38,0,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+38,5,SOLAR_TOTAL,sol cobre toda a recarga
+39,0,REDE_POTENCIA_REDUZIDA,"sem sol, recarga mais leve na rede"
+39,75,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+40,0,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+40,5,SOLAR_TOTAL,sol cobre toda a recarga
+40,125,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+40,130,SOLAR_TOTAL,sol cobre toda a recarga
+40,145,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+40,150,SOLAR_TOTAL,sol cobre toda a recarga
+40,170,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
+40,175,SOLAR_TOTAL,sol cobre toda a recarga
+40,195,HIBRIDO_SOLAR_REDE,"sol parcial, rede complementa"
